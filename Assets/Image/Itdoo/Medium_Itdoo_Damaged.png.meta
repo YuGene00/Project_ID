@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 05e005cd54e87784e9b6d5c4c44285f2
-timeCreated: 1480495026
+guid: ee090f4be037ace42916530f39120db8
+timeCreated: 1480495027
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
@@ -30,7 +30,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -53,7 +53,7 @@ TextureImporter:
     serializedVersion: 2
     sprites: []
     outline: []
-  spritePackingTag: 
+  spritePackingTag: Itdoo
   userData: 
   assetBundleName: 
   assetBundleVariant: 
