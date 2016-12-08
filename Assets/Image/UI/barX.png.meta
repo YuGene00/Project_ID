@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 05e005cd54e87784e9b6d5c4c44285f2
-timeCreated: 1480495026
+guid: c287e8709ccfba54fa2ed0c0ddf71b80
+timeCreated: 1481171737
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
@@ -53,7 +53,7 @@ TextureImporter:
     serializedVersion: 2
     sprites: []
     outline: []
-  spritePackingTag: Itdoo
+  spritePackingTag: 
   userData: 
   assetBundleName: 
   assetBundleVariant: 
